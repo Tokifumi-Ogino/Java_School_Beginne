@@ -1,4 +1,4 @@
-# Java_School_Beginner
+# Cockpit_Javaスクール_初級
 Lesson_03 変数（変数の宣言）
 Lesson_04 データ型（データ型の宣言）
 Lesson_05 配列　（配列の宣言と代入）
